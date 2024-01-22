@@ -17,10 +17,10 @@ Heading 1
 Heading 2
 
 ### Lists
-Unordered List Item 1
-Unordered List Item 2
-Ordered List Item 1
-Ordered List Item 2
+* Unordered List Item 1
+* Unordered List Item 2
+1. Ordered List Item 1
+2. Ordered List Item 2
 
 ### Bold and Italics
 Bold Text
