@@ -33,4 +33,3 @@ Heading 2
 1. Ordered List Item 1
 2. Ordered List Item 2
 
-## What is Markdown?
