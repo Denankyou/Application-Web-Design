@@ -22,15 +22,4 @@ Heading 2
 1. Ordered List Item 1
 2. Ordered List Item 2
 
-### Bold and Italics
-Bold Text
-Italic Text
-
-### Links
-Link Text
-
-### Code Blocks
-´Inline Code´
-
-### Quotes
-This is a quote.
+## What is Markdown?
